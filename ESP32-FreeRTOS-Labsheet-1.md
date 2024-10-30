@@ -19,6 +19,9 @@
 
 
 3. รันโปรแกรมและอธิบายผลที่ได้
+   
+![image](https://github.com/user-attachments/assets/6f60e572-da26-45f7-a328-7a7f2649549d)
 
+ monitor จะแสดงข้อความเเล้ว +1 ไปเรื่อยๆ
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
