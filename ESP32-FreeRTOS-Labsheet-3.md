@@ -51,6 +51,9 @@ void app_main(void)
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
 
+![image](https://github.com/user-attachments/assets/5f62955e-f842-4db2-b4ed-2f5d39babc16)
+
+
 3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
 ```c
@@ -63,6 +66,11 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+
+![image](https://github.com/user-attachments/assets/6494464b-9a6a-4e4c-87ec-be1a5eaa502a)
+
+ฟังก์ชันนี้ทำหน้าที่เหมือนกับ xTaskCreate แต่มีพารามิเตอร์เพิ่มเติมเพื่อระบุ core ที่ต้องการให้ task ทำงาน
+
 --------
 ### หมายเหตุ API ของ xTaskCreatePinnedToCore
 ``` c
