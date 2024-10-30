@@ -96,4 +96,10 @@ void app_main(void)
 
 ```
 
+## ผลลัพธ์
+
+![image](https://github.com/user-attachments/assets/7006b96a-a6a0-4029-a180-db06b51d8ee2)
+
+monitor แสดงซ้ำ 5 ครั้ง แล้ว +1 ไปเรื่อยๆ
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
