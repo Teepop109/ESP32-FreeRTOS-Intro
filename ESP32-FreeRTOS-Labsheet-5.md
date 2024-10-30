@@ -48,4 +48,7 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/a1153fc0-adc7-4bb0-8dfc-081fcaa265da)
+
+ผลการทดลองเป็นการสั่งให้taskที่2หยุดการทำงานเราเพิ่มฟังก์ชั่นที่จะทำให้โปรแกรมทำงานต่อ
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-6.md) 
